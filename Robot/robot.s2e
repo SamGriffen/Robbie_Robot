@@ -83,7 +83,7 @@
 	"values":{
 	},
 	"translators":{
-           "nb_NO":{ // Norwegian translation (Courtesy of olean-b on GitHub)
+           "nb_NO":{ // Norwegian translation
             "attach drivetrain with motor ports as: Left A: %n, Left B: %n, Right A: %n, Right B: %n":"Sett pinner for motordrev: Venstre A: %n, Venstre B: %n, Høyre A: %n, Høyre B: %n",
             "Move Forward (Power: %n )" :"kjør fremover (hastighet: %n )",
             "Move Backward (Power: %n )":"kjør bakover (hastighet: %n )",
