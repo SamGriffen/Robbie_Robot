@@ -1,9 +1,9 @@
 {
-	"extensionName": "Robbie Robot (L9110S)",
+	"extensionName": "Robbie Robot",
 	"description": "An extension for driving robots using the L9110S motor driver. Currently supports one motor driver.",
-	"version": "1.0",
+	"version": "1.1",
 	"author": "Sam Griffen",
-	"homepage": "http://www.google.com",
+	"homepage": "https://github.com/JesusLizard/Robbie_Robot",
 	"sort":0,
 	"javascriptURL":"js/main.js",
   	"firmware":"1.0",
