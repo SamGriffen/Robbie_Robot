@@ -84,9 +84,9 @@
 	},
 	"translators":{
            "nb_NO":{ // Norwegian translation
-            "attach drivetrain with motor ports as: Left A: %n, Left B: %n, Right A: %n, Right B: %n":"Sett pinner for motordrev: Venstre A: %n, Venstre B: %n, Høyre A: %n, Høyre B: %n",
-            "Move Forward (Power: %n )" :"kjør fremover (hastighet: %n )",
-            "Move Backward (Power: %n )":"kjør bakover (hastighet: %n )",
+            "attach drivetrain with motor ports as: Left A: %n, Left B: %n, Right A: %n, Right B: %n":"Sett pinner for motordrev: Venstre A: %n, Venstre B: %n, Hoeyre A: %n, Hoeyre B: %n",
+            "Move Forward (Power: %n )" :"kjoer fremover (hastighet: %n )",
+            "Move Backward (Power: %n )":"kjoer bakover (hastighet: %n )",
             "Turn Left (Power: %n )" :"snu venstre (hastighet: %n )",
             "Turn Right (Power: %n )":"snu høyre (hastighet: %n )"
         }
